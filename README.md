@@ -17,17 +17,9 @@ jose-jwt
 Newtonsoft.Json
 ```
 
-### 1.2 Import Connector
+### 1.2 Configuration properties
 
-Add the namespace as below to access the MyInfoConnector into your code:
-
-```.Net
-namespace sg.gov.ndi;
-```
-
-### 1.3 Configuration file
-
-You are required to create a properties file with the following properties for this library. Samples of the properties file can be found in this repository under the Sample Properties folder.
+You are required to pass properties to connector. Samples of the properties can be found in this repository under the Sample Properties folder.
 | Required Properties | Description |
 | -------- | ----------- |
 | ClientId | Unique ID provided upon approval of your application to use MyInfo. For our sample application, it is **STG2-MYINFO-SELF-TEST** |
@@ -42,6 +34,8 @@ You are required to create a properties file with the following properties for t
 ## Quick Start
 
 ### 2.1 RUN MyInfo Connector API Tester
+
+Navigate to MyInfoConnector.API folder and run the test app.
 
 ```cmd
 dotnet run
