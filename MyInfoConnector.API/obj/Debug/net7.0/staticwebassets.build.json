@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BcC0DeSuJVLF7FnS+imyAqRDZlqXjzob+GqfA0mtbTk=",
+  "Source": "MyInfoConnector.API",
+  "BasePath": "_content/MyInfoConnector.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+D:\personal\Code\MyInfoConnector-V4\MyInfoConnector.Console\bin\Debug\net7.0\MyInfoConnector.Console.exe
+D:\personal\Code\MyInfoConnector-V4\MyInfoConnector.Console\bin\Debug\net7.0\MyInfoConnector.Console.deps.json
+D:\personal\Code\MyInfoConnector-V4\MyInfoConnector.Console\bin\Debug\net7.0\MyInfoConnector.Console.runtimeconfig.json
+D:\personal\Code\MyInfoConnector-V4\MyInfoConnector.Console\bin\Debug\net7.0\MyInfoConnector.Console.dll
+D:\personal\Code\MyInfoConnector-V4\MyInfoConnector.Console\bin\Debug\net7.0\MyInfoConnector.Console.pdb
+D:\personal\Code\MyInfoConnector-V4\MyInfoConnector.Console\obj\Debug\net7.0\MyInfoConnector.Console.csproj.AssemblyReference.cache
+D:\personal\Code\MyInfoConnector-V4\MyInfoConnector.Console\obj\Debug\net7.0\MyInfoConnector.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\personal\Code\MyInfoConnector-V4\MyInfoConnector.Console\obj\Debug\net7.0\MyInfoConnector.Console.AssemblyInfoInputs.cache
+D:\personal\Code\MyInfoConnector-V4\MyInfoConnector.Console\obj\Debug\net7.0\MyInfoConnector.Console.AssemblyInfo.cs
+D:\personal\Code\MyInfoConnector-V4\MyInfoConnector.Console\obj\Debug\net7.0\MyInfoConnector.Console.csproj.CoreCompileInputs.cache
+D:\personal\Code\MyInfoConnector-V4\MyInfoConnector.Console\obj\Debug\net7.0\MyInfoConnector.Console.dll
+D:\personal\Code\MyInfoConnector-V4\MyInfoConnector.Console\obj\Debug\net7.0\refint\MyInfoConnector.Console.dll
+D:\personal\Code\MyInfoConnector-V4\MyInfoConnector.Console\obj\Debug\net7.0\MyInfoConnector.Console.pdb
+D:\personal\Code\MyInfoConnector-V4\MyInfoConnector.Console\obj\Debug\net7.0\MyInfoConnector.Console.genruntimeconfig.cache
+D:\personal\Code\MyInfoConnector-V4\MyInfoConnector.Console\obj\Debug\net7.0\ref\MyInfoConnector.Console.dll
